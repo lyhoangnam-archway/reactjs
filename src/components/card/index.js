@@ -1,9 +1,7 @@
-import React, {Component, PropTypes} from 'react';
+import React, { Component, PropTypes } from "react";
 
 export default class TwitterCard extends Component {
-    render() {
-        return <div className="card">
-
-        </div>
-    }
+  render() {
+    return <div className="card" />;
+  }
 }
