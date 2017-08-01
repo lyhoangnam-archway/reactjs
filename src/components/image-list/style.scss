@@ -1,0 +1,9 @@
+.imageList{
+  margin-top: 30px;
+  .imageItem{
+    margin-bottom: 30px;
+    &__image{
+      width: 100%;
+    }
+  }
+}
